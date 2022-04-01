@@ -38,22 +38,20 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Toggling between Start, Stop and Game Buttons](gif1-link-here)
-![Losing the Game](gif2-link-here)
-![Winning the Game](gif3-link-here)
+![Toggling between Start, Stop and Game Buttons](https://i.imgur.com/phSsl0z.gif)
+![Losing the Game](https://i.imgur.com/owlQiHA.gif)
+![Winning the Game](https://i.imgur.com/O2dU7kt.gif)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-I used Stack Overflow
- https://www.rapidtables.com/web/css/css-color.html 
+I used Stack Overflow and 
 https://www.w3schools.com/css//default.asp to gain more knowledge on CSS concepts 
 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 As a computer science student, I've come to understand and accept that when we code, we will face difficulties. Knowing how to overcome these obstacles is what makes whatever project we are working on better and makes the achievement worthwhile.
 There were a few times when I ran into problems while working on this project. One of the smaller challenges I encountered was trying to place more buttons and adjusting the FreqMap property.
-
 I've discovered that a good coder is always patient and eager to learn. Whenever I encountered a problem, I took a step back, took a deep breath, and reread the content. I've discovered that coding with a relaxed mind yields the best results.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
