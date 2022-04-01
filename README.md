@@ -51,8 +51,7 @@ https://www.w3schools.com/css//default.asp to gain more knowledge on CSS concept
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 As a computer science student, I've come to understand and accept that when we code, we will face difficulties. Knowing how to overcome these obstacles is what makes whatever project we are working on better and makes the achievement worthwhile.
-There were a few times when I ran into problems while working on this project. One of the smaller challenges I encountered was trying to place more buttons and adjusting the FreqMap property.
-I've discovered that a good coder is always patient and eager to learn. Whenever I encountered a problem, I took a step back, took a deep breath, and reread the content. I've discovered that coding with a relaxed mind yields the best results.
+There were a few times when I ran into problems while working on this project. One of the smaller challenges I encountered was trying to place more buttons and adjusting the FreqMap property. Another problem I had was writing the code for the guessCounter property. I looked over the hint and read up on some javascript syntaxes. I've discovered that a good coder is always patient and eager to learn. Whenever I encountered a problem, I took a step back, took a deep breath, and reread the content. I've discovered that coding with a relaxed mind yields the best results.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 Working on this project has increased my interest and understanding of the significance of each programming language and how powerful they are when used together. 
