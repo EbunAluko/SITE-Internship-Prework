@@ -61,7 +61,6 @@ For someone who has been involved in app development in the last few months, my 
 If we wanted to do some of the backend code in Python, would there be a significant difference between that and using Javascript, or would it be nearly the same? I also noticed that when we started this project, css, js, and html files were automatically included. Are these the only three languages used for web development? Or could we modify the files provided by Glitch and convert them to C++ or Python files instead?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-
 I would have loved to include a replay button if I had more time to work on this project. I'd make it so that this replay button can only be pressed once per round of the game. This, I believe, could be used in place of the game's three strikes policy.
 I would also have liked it if there was a small demo at the start of the game to help the user grasp what the game is all about.
 Adding more levels, each with a different theme or background, also sounds like a great idea. Another change I would have made is to add more effect when a user wins or loses. These extra features, I believe, will make the game more interactive and interesting for the user.
