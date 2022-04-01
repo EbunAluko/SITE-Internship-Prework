@@ -44,7 +44,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. br/
 I used Stack Overflow and 
 https://www.w3schools.com/css//default.asp to gain more knowledge on CSS concepts 
 
