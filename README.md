@@ -4,7 +4,7 @@
 
 Submitted by: Ebunoluwa Aluko
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/large-harvest-basketball?path=script.js%3A137%3A27)
 
